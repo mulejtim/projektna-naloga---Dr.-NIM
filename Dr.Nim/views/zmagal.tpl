@@ -3,8 +3,8 @@
         <title> čestitam </title>
     </head>
     <body>
-	<h3>cestitam zmagal si</h3>
-	saj imas se 5 min casa pojdi se eno
+	<h3>Cestitam zmagal si</h3>
+	Saj imas se 5 min casa pojdi se eno igro.
 	
 
 <form action="/igralec_prvic/" method="POST">
