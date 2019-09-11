@@ -4,7 +4,7 @@
         <title> izberi si malo vecje stevilo </title>
     </head>
     <body>
-	izberi si malo vecje stevilo
+	Izberi si malo vecje stevilo.
 	
 
 <form action="/igralec_prvic/" method="POST">
