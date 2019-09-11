@@ -7,7 +7,7 @@
     <body>
         {{ostale_zogice}}
 	<h3>vec rece prihodnjic</h3>
-	saj imas se 5 min casa pojdi se eno
+	Saj imas se 5 min casa pojdi se eno igro.
 	
 
 <form action="/igralec_prvic/" method="POST">
